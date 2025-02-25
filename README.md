@@ -6,7 +6,7 @@ Marcin Ćwiek
 
 ## Opis teorii:
 
-Analizy Regresji Liniowej to metoda statystyczna służąca do modelowania
+Analiza regresji liniowej to metoda statystyczna służąca do modelowania
 zależności między zmienną objaśniającą a jedną lub wieloma zmiennymi
 objaśniającymi. Jej celem jest oszacowanie równania, które pozwoli
 przewidzieć wartości Y na podstawie wartości zmiennych niezależnych.
